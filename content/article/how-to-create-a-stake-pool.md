@@ -1,5 +1,5 @@
 ---
-title: How to create a stake pool
+title: How To Create A Stake Pool
 tags:
   - Ada
 url: ""
